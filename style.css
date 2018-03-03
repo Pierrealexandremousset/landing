@@ -1,0 +1,35 @@
+
+body{
+  background: rgb(0,245,245);
+  color: red;
+  font-size: 100px;
+  font-family: Helvetica;
+}
+h1{
+  font-family: Courier;
+  color: red;
+  font-weight: lighter;
+  font-size: 100px;
+}
+h2 {
+  font-family: Courier;
+  color: green;
+  font-weight: lighter;
+  font-size: 10px;
+ 
+}
+a {
+  color: yellow;
+}
+a:hover {
+  text-decoration: none;
+  color: purple;
+}
+
+#image{
+	margin-left:1500px;
+	}
+
+	img{
+		width:200px;
+	}
